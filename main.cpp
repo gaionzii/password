@@ -2,7 +2,7 @@
 #include <string>
 #include <map>
 using namespace std;
-
+//PALLE
 class Credenziali{
 private:
     string username;
